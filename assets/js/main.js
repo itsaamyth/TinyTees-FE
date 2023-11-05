@@ -404,7 +404,7 @@
     /* 13.1 Homepage Slideshow */
     function home_slider() {
         $('.home-slideshow').slick({
-            dots: true,
+            dots: false,
             infinite: true,
             slidesToShow: 1,
             slidesToScroll: 1,

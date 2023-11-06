@@ -221,7 +221,7 @@
         display: block;
     }
    .gender-slider .section-header { margin-bottom: 20px; }
-   .gender-slider .nav-tabs { border: 0; text-align: center; padding: 0; margin: 10px 0 10px; }
+   .gender-slider .nav-tabs { border: 0; text-align: center; padding: 0; margin: 0 0 10px; }
    .gender-slider .nav-tabs .nav-link { background-color: transparent; color: #000000; font-size: 20px; font-weight: 600; border-radius: 0; position: relative; padding: 0; margin: 0 20px; border: none; text-transform: uppercase; }
    .gender-slider .nav-tabs.style1 .nav-link:after { width:0; content:""; display:block; height:2px; position:absolute; bottom:-6px; left:0; z-index:1; background:#111111; transition:all .3s ease-in-out; -webkit-transition:all .3s ease-in-out; -ms-transition:all .3s ease-in-out; }
    .gender-slider .nav-tabs.style1 .nav-link.active:after { width:100%; }

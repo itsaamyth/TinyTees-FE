@@ -1076,6 +1076,16 @@ display: none;
 .topbar-slider-items .slick-next { right:-40px; }
 .topbar-slider-items .slick-prev { left:-40px; }
 
+/* Best Picks Section */
+.best-picks-img-vertical{
+  height: 723px;
+  width: 645px;
+}
+.best-picks-img-horizontal{
+  height: 350px;
+  width: 645px;
+}
+
 
 /*======================================================================
   9. Homepage Demo's

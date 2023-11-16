@@ -552,7 +552,7 @@
     .px-40 { padding-left: 30px !important; padding-right: 30px !important; }
     .px-50 { padding-left: 40px !important; padding-right: 40px !important; }
 
-    .btn, .btn-primary { font-size: 13px; padding: 8px 15px; }
+    .btn, .btn-primary { font-size: 13px; padding: 8px 18px; }
     .btn-xl { font-size: 14px; padding: 10px 25px; }
     .btn-sm { padding: 8px 15px; }
     .btn.rounded-pill { padding-left: 20px; padding-right: 20px; }

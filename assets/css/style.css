@@ -144,7 +144,18 @@ hr { margin:20px 0; border:0; opacity:1; border-bottom:1px solid #ececec; }
 .mt-n2 { margin-top: -.5rem !important; }
 .form-row { display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; margin-right: -7.5px; margin-left: -7.5px; }
 .form-row  > * { padding-right: 7.5px; padding-left: 7.5px; }
-
+.pt-20{
+  padding-top: 20px;
+}
+.pt-30{
+  padding-top: 30px;
+}
+.pb-20{
+  padding-bottom: 20px;
+}
+.mr-5{
+  margin-right: 5px;
+}
 /* Model */
 .modal .btn-close { width: 33px; height: 33px; opacity:0.7; position: absolute; right: 0; top: 0; background-size: 12px; z-index: 3; }
 .modal .modal-body { padding: 30px; }
